@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raxan7
+- 👋 Hi, I’m @Raxan7, the name is Saidi Alex
 - 👀 I’m interested in Web Development, Mobile App Development and Artificial Intelligence
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on all sorts of projects that cover the fields specified above
